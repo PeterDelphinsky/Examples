@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.928,D:\Projekty\Unit1.pas=D:\Projekty\2018\Ribbon - example\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.928,D:\Projekty\Unit1.dfm=D:\Projekty\2018\Ribbon - example\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.542,=D:\Projekty\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.845,D:\Projekty\Project1.dproj=D:\Projekty\2018\Ribbon - example\RibbonExample.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.263,=D:\Projekty\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
